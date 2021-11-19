@@ -1,0 +1,80 @@
+
+#main {
+    border-radius: 5px;
+    background: #eee;
+  }
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+#img-div {
+    background: white;
+    max-width: 100%;
+    border-radius: 20px;
+
+}
+
+#image {
+    width: 100%;
+    max-width: 599px;
+    display: block;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px 0 10px 0px;
+    border-radius: 10%;
+}
+
+
+figcaption {
+    text-align: center;
+    font-size: 8pt;
+}
+
+h1 {
+    color: #249666;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0 0 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+p {
+    font-size: 10pt;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 0;
+}
+
+
+#tribute-info {
+    font-size: 12pt;
+    text-align: justify;
+    line-height: 1cm;
+    padding: 5% 20% 0% 20%;
+    margin: 0;
+}
+
+a {
+    color:#249666;
+}
+
+#leia-mais {
+    font-size: 14pt;
+    text-align: center;
+}
+
+#quote {
+    font-size: 12pt;
+    font-style: italic;
+    text-align: left;
+    padding: 30px 30% 5% 30%;
+    margin: 0;
+    line-height: 0.7cm;
+    
+  }

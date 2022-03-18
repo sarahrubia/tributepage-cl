@@ -8,7 +8,9 @@ O objetivo foi criar uma página para prestar homenagem a alguém, neste caso a 
 
 ## Layout do projeto
 
-![Texto alternativo](/path/to/img.jpg "Título opcional")
+![Página de tributo](https://raw.githubusercontent.com/sarahrubia/tributepage-cl/main/imgs/tributepage1.png "Primeira parte da página")
+![Página de tributo](https://github.com/sarahrubia/tributepage-cl/blob/main/imgs/tributepage2.png "Segunda parte da página")
+![Página de tributo](https://github.com/sarahrubia/tributepage-cl/blob/main/imgs/tributepage3.png "Segunda parte da página")
 
 ## Tecnologias utilizadas
 
@@ -20,5 +22,6 @@ O objetivo foi criar uma página para prestar homenagem a alguém, neste caso a 
 **Sarah Rúbia de Oliveira Santos**
 
 Linkedin: https://www.linkedin.com/in/sarahrubia/
+
 e-mail: sarahrubia22@gmail.com
 
